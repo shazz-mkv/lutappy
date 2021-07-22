@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/shazz-mkv">shazz-mkv</a> to make 
 <a href="https://github.com/shazz-mkv/followers"><img title="Followers" src="https://img.shields.io/github/followers/shazz-mkv?color=blue&style=flat-square"></a>
 <a href="https://github.com/shazz-mkv/lutappy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shazz-mkv/lutappy?color=blue&style=flat-square"></a>
 <a href="https://github.com/shazz-mkv/lutappy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shazz-mkv/lutappy?color=blue&style=flat-square"></a>
-<a href="https://github.com/shazz-mkv/Paathu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shazz-mkv/lutappy?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/shazz-mkv/lutappy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shazz-mkv/lutappy?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
   
