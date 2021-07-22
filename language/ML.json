@@ -186,12 +186,12 @@
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
-            "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
+            "DOWNLOADING_SONG": "\npaatt thappi nookkatte chakkare 🤗\n",
+            "UPLOADING_SONG": "\nPaatt kittiyittund 🧚 Cheviyil vekkunna sunappi eduth vachoo 🎧\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
-            "UPLOADING_VIDEO": "\n```Uploading...```\n",
+            "DOWNLOADING_VIDEO": "\n```Njan pooyi nookkett varaam 😜...```\n",
+            "UPLOADING_VIDEO": "\n```Ippo varum to 🤗...```\n",
             "YT_DESC": "YouTubeill search cheyyum.",
             "NEED_WORDS": "```search cheyende words type cheyyu!```",
             "GETTING_VIDEOS": "```video link kond verunnu...```",
@@ -199,7 +199,7 @@
             "SEARCHING": "*🔎 searching...*",
             "WIKI_DESC": "Wikipedia yill search cheyyaan.",
             "IMG_DESC": "googlil chithram search cheyaan.",
-            "IMG": "chithram upload cheyyunu ```{}``` number ```{} ```..."
+            "IMG": "Ninakk veenamenkil njan snd cheythu tharaam 😁 ```{}``` number ```{} ```..."
         },
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*Paathunu Update und* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*lutappikk Update und* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*👰 Paathu Restarting ?*"
+            "AFTER_UPDATE": "*😈 lutappy Restarting ?*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
